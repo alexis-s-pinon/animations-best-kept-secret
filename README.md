@@ -1,1 +1,1 @@
-# animations-best-kept-secret
+# Animation's-Best-Kept-Secret
