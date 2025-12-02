@@ -95,7 +95,7 @@
 
 ### Every action counts. Doing even one of these steps helps support indie creators and keeps these stories alive, you’re already moving in the right direction.
 
-### Long-Term Engagement (join the movement)
+## Long-Term Engagement (join the movement)
 
 ### Remember: The Perfect Formula Does Exist
 ### Small Studio + Big Heart + Your Email
