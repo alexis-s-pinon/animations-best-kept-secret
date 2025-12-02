@@ -5,12 +5,12 @@
 ### Young adults and animation enthusiasts ages 16–35 who are passionate about creative storytelling, indie media, and discovering new animated films and studios. These users value diversity, inclusivity, and artistic freedom and are likely to engage with creators through streaming, social sharing, merchandise, and crowdfunding. The site appeals to fans who enjoy learning about studio histories, exploring watchlists, and supporting independent animation through community engagement.
 
 ### Additional Target Audience:
-### +Aspiring animators - looking for inspiration from small studios
-### +Media and film students - studying storytelling, worldbuilding, or animation history
-### +Fans of niche genres - (stop-motion, experimental animation, mixed-media films)
-### +Collectors - who purchase physical media, art books, or limited-edition merch
-### +Socially conscious viewers - who prioritize diversity and representation in entertainment
-### +Festival-goers - who enjoy discovering new films before they go mainstream
++Aspiring animators - looking for inspiration from small studios
++Media and film students - studying storytelling, worldbuilding, or animation history
++Fans of niche genres - (stop-motion, experimental animation, mixed-media films)
++Collectors - who purchase physical media, art books, or limited-edition merch
++Socially conscious viewers - who prioritize diversity and representation in entertainment
++Festival-goers - who enjoy discovering new films before they go mainstream
 
 
 
