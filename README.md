@@ -1,4 +1,4 @@
-[Link to our Wireframes](https://www.figma.com/proto/f6uzU0Ay6SpIpcVASCHDKR/Untitled?node-id=1-2&p=f&t=38E4WpoAFC9RfYhJ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[Link to our Figma](https://www.figma.com/design/f6uzU0Ay6SpIpcVASCHDKR/CIS-3610--Project?node-id=118-40&t=55ysHhNiwLzPh934-1)
 
 [Link to Mock Up](https://www.figma.com/proto/f6uzU0Ay6SpIpcVASCHDKR/CIS-3610--Project?node-id=76-363&p=f&t=U7wUJicuehqmRkuW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A363)
 
